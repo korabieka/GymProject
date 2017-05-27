@@ -65,7 +65,7 @@
     </div>  
   </div>
  </div>
-  <p style="margin-left: 100px"><a class="botton" href="#" role="button">اذهب لعملية تحويل جسمك</a></p>
+  <p style="margin-left: 100px"><a class="botton" href="{{url('/workout')}}" role="button">اذهب لعملية تحويل جسمك</a></p>
 </div>
     
     

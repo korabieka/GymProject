@@ -53,11 +53,11 @@
                                         <h3>بيانات شخصية</h3>
                                         <div>
                                             <span>الاسم<label>*</label></span>
-                                            <input type="text" name="name"> 
+                                            <input type="text" name="name" class="form-control"> 
                                         </div>
                                         <div>
                                             <span>البريد الالكتروني<label>*</label></span>
-                                            <input type="email" name="email"> 
+                                            <input type="email" name="email" class="form-control">  
                                         </div>
                                         <div class="clear"> </div>
                                             
@@ -67,11 +67,11 @@
                                         <h3>بيانات الدخول</h3>
                                         <div>
                                             <span>كلمة المرور<label>*</label></span>
-                                            <input type="password" name="password">
+                                            <input class="form-control" type="password" name="password">
                                         </div>
                                         <div>
                                             <span>تأكيد كلمة المرور<label>*</label></span>
-                                            <input type="password" name="password_confirmation">
+                                            <input class="form-control" style="margin-left: 10px;" type="password" name="password_confirmation">
                                         </div>
                                         <div class="clear"> </div>
                                 </div>
